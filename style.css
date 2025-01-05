@@ -26,7 +26,6 @@ body {
   gap: 0.5rem;
   justify-content: center;
   align-items: center;
-  border: 2px solid #fff;
 }
 .box {
   flex: 1 1 calc(33.33% - 0.5rem);
